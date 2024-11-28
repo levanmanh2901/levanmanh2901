@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm a data enthusiast with a passion for analyzing
 
 ### Here are some ideas to get you started:
 
-- 🌱 I’m currently working on improving my SQL and data analysis skills with real-world projects, including e-commerce analytics and cohort analysis.
-- 🌱 I’m currently learning more about Google BigQuery, Python, and Machine Learning algorithms.
+- 🌱 I’m currently working on improving my SQL, Python, Machine Learning algorithms. and data analysis skills with real-world projects, including e-commerce analytics and cohort analysis.
 - 🤝 I’m looking to collaborate on projects related to Data Science, Data Analytics, and SQL query optimization.
 - 🧑‍💻 I’m looking for help with improving my machine learning models and exploring new ways to visualize data insights.
 - 💬 Ask me about anything related to data analysis, Google Cloud, SQL, or Python.

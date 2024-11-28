@@ -17,4 +17,8 @@ SQL
 Power BI
 Python
 Machine learning
-### Projects 
+### Projects
+1. E-commerce Analysis - User Behavior & Conversion Metrics (SQL)
+[https://github.com/levanmanh2901/E-commerce-Analysis/blob/713e2ec5497df3b6346c402e07820b2b6755b51a/README.md]
+2. Global Retail: Customer Segmentation with RFM (Python)
+[https://github.com/levanmanh2901/Global-Retail-Customer-Segmentation-with-RFM/blob/75502c9fe7720377e4e9e8752acf72604cf4c608/README.md]

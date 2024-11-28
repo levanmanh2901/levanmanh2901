@@ -12,3 +12,9 @@ Welcome to my GitHub profile! I'm a data enthusiast with a passion for analyzing
 - ⚡ Fun fact: I love exploring data from diverse domains, from e-commerce to weather forecasting!
 
 Feel free to check out my repositories and contribute. Let's learn and grow together!
+### Skill
+SQL
+Power BI
+Python
+Machine learning
+### Projects 
